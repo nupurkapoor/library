@@ -2,14 +2,6 @@
 
 Links, resources, training materials, blogs, github repos, articles, and everything that I don't want to get lost under my bookmarks folder! I'll probably arrange this as per language or concern, in respective sub folders, add a toc (hopefully one day!). This is a curated list of all the awesome not-to-be missed resources I've found online. 
 
-### Resource Legend
-* :computer: - interactive courses, labs, or problems
-* :video_camera: - videos
-* :headphones: - podcasts
-* :books: - books or long reads
-* :page_facing_up: - articles, short reads, or tutorials
-* :moneybag: - paid resource
-
 ### Introduction to CS ([source](https://github.com/prakhar1989/awesome-courses/blob/master/README.md))
 
 - [CS 10](https://inst.eecs.berkeley.edu/~cs10/fa14/) **The Beauty and Joy of Computing** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />

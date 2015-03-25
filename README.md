@@ -133,6 +133,11 @@ Links, resources, training materials, blogs, github repos, articles, and everyth
 	- The required algorithms class that go in depth into all basic algorithms and the proofs behind them. This is one of the heavier algorithms curriculums on this page. Taught by Avrim Blum and [Manuel Blum](http://en.wikipedia.org/wiki/Manuel_Blum) who has a Turing Award due to his contributions to algorithms. Course link includes a very comprehensive set of reference notes by Avrim Blum.
 
 ### Front End development
-
+* [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) - :books: :moneybag: - $13.49 (ebook) or $21.35 print on Amazon
+* [Speaking JavaScript](http://speakingjs.com/) - :books: - Free
+* [Eloquent JavaScript](http://eloquentjavascript.net/) - :books: - Free
+* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - :books: - Free
+* [DOM Enlightenment](http://domenlightenment.com/) - :books: - Free
+* [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans) - :computer: - Solve JavaScript runtime errors by fixing Jasmine tests
 
 

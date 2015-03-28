@@ -146,6 +146,8 @@ Links, resources, training materials, blogs, github repos, articles, and everyth
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - :books: - Free
 * [DOM Enlightenment](http://domenlightenment.com/) - :books: - Free
 * [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans) - :computer: - Solve JavaScript runtime errors by fixing Jasmine tests
+* [Javascript Standard Style](https://github.com/feross/standard/blob/master/README.md) - :books:
+* [React Primer](https://github.com/mikechau/react-primer-draft) **HOT** - :books:
 
 #Excerpts from the book 'Cracking the Coding Interview'
 

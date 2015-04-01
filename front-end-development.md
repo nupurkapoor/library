@@ -16,5 +16,6 @@
 * [DOM Enlightenment](http://domenlightenment.com/) :books: - Free
 * [JavaScript Koans - Solve JavaScript runtime errors by fixing Jasmine tests](https://github.com/mrdavidlaing/javascript-koans) :computer: 
 * [Javascript Standard Style](https://github.com/feross/standard/blob/master/README.md) :page_facing_up:
+* [Javascript Minefield](http://www.walkercoderanger.com/blog/2014/02/javascript-minefield/)
 * [React Primer](https://github.com/mikechau/react-primer-draft) **HOT** :page_facing_up:
 

@@ -28,6 +28,7 @@
 * [JavaScript Koans - Solve JavaScript runtime errors by fixing Jasmine tests](https://github.com/mrdavidlaing/javascript-koans) :computer: 
 * [Javascript Minefield](http://www.walkercoderanger.com/blog/2014/02/javascript-minefield/)
 * [JS Dares](http://jsdares.com/) :computer: - Free 
+* [Guide to Angular](https://github.com/Thinkful/guide-intro-to-angular) :page_facing_up:  - Free
 
 #### General Web
 * [How the web works - Mozilla](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/How_the_Web_works) :page_facing_up: 

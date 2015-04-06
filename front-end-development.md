@@ -23,12 +23,14 @@
 * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :page_facing_up:
 * [Douglas Crockford's JS](http://javascript.crockford.com/) :page_facing_up: - Free
 * [Intro to modular programming for frontend JavaScript](https://github.com/Jam3/jam3-lesson-module-basics) :page_facing_up: - Free
+* [Uber API Guide](https://github.com/Thinkful/guide-uber-api) :page_facing_up:  - Free
 * [Awesome resources for React](https://github.com/enaqx/awesome-react) **HOT** :page_facing_up:  - Free
 * [React Primer](https://github.com/mikechau/react-primer-draft) **HOT** :page_facing_up:  - Free
 * [JavaScript Koans - Solve JavaScript runtime errors by fixing Jasmine tests](https://github.com/mrdavidlaing/javascript-koans) :computer: 
 * [Javascript Minefield](http://www.walkercoderanger.com/blog/2014/02/javascript-minefield/)
 * [JS Dares](http://jsdares.com/) :computer: - Free 
 * [Guide to Angular](https://github.com/Thinkful/guide-intro-to-angular) :page_facing_up:  - Free
+
 
 #### General Web
 * [How the web works - Mozilla](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/How_the_Web_works) :page_facing_up: 

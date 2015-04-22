@@ -32,6 +32,8 @@
 * [JS Dares](http://jsdares.com/) :computer: - Free 
 * [Guide to Angular](https://github.com/Thinkful/guide-intro-to-angular) :books:  - Free
 
+##### Javascript Libraries
+* [Elevator.js](http://tholman.com/elevator.js/) - Elevator.js fixes those awkward "scroll to top" moments the old fashioned way.
 
 #### General Web
 * [How the web works - Mozilla](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/How_the_Web_works) :books: 

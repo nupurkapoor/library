@@ -5,6 +5,7 @@
 * [Dive Into Python](http://www.diveintopython.net/) - Python from novice to pro :books:
 * [Crash course in Python](http://stephensugden.com/crash_into_python/) :page_facing_up:
 * [An Introduction to List Comprehensions in Python](http://carlgroner.me/Python/2011/11/09/An-Introduction-to-List-Comprehensions-in-Python.html) :page_facing_up:
+* [LEARN PYTHON ONLINE](https://www.codementor.io/learn-python-online) :computer: :books: :video_camera:
 * [A Byte of Python](http://www.swaroopch.com/notes/python/) :books:
 * [Web Development using Python & Django](https://www.mysliderule.com/learning-paths/web-development-python-django/learn/) - By Sliderule :books:
 * [Intro to Algorithms in Python](http://courses.csail.mit.edu/6.006/spring11/notes.shtml) :books: :computer:

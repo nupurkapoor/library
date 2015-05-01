@@ -8,6 +8,8 @@
 * [Python Turorial for developers](http://www.tutorialspoint.com/python/) :computer: :books: :video_camera:
 * [Learn Python Online](https://www.codementor.io/learn-python-online) :computer: :books: :video_camera:
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) :computer: :books: :video_camera:
+* [Udemy - Python next level (Intermediate)](https://www.udemy.com/python-the-next-level/#/) :computer: :video_camera: :page_facing_up:
+* [Udemy - Learn Python, Django](https://www.udemy.com/coding-for-entrepreneurs/#/) :computer: :video_camera: :page_facing_up:
 * [A Byte of Python](http://www.swaroopch.com/notes/python/) :books:
 * [Web Development using Python & Django](https://www.mysliderule.com/learning-paths/web-development-python-django/learn/) - By Sliderule :books:
 * [Intro to Algorithms in Python](http://courses.csail.mit.edu/6.006/spring11/notes.shtml) :books: :computer:

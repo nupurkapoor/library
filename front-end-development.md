@@ -11,7 +11,7 @@
 #### Javascript
 * [Javascript Reference Guide - Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) :page_facing_up:
 * [Learn Javascript - Mozilla listings](https://developer.mozilla.org/en-US/Learn/JavaScript) :page_facing_up:
-* [A re-introduction to JavaScript (JS tutorial) - Mozill](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) :books:
+* [Re-introduction to JavaScript (JS tutorial) - Mozill](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) :books:
 * [Javascript Guide](https://github.com/ExactTarget/javascript/blob/master/README.md) -  :books: 
 * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :books: :moneybag: - $13.49 (ebook) or $21.35 print on Amazon
 * [DOM Enlightenment](http://domenlightenment.com/) :books: - Free

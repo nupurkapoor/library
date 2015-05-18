@@ -16,6 +16,7 @@
 * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :books: :moneybag: - $13.49 (ebook) or $21.35 print on Amazon
 * [DOM Enlightenment](http://domenlightenment.com/) :books: - Free
 * [Front End Development Guidelines](http://taitems.github.io/Front-End-Development-Guidelines/) :page_facing_up: 
+* [Javascript Jabber podcast](http://devchat.tv/js-jabber/) - :headphones: Free
 * [JShttp Style Guide](https://github.com/jshttp/style-guide) :books: 
 * [Speaking JavaScript](http://speakingjs.com/) :books: - Free
 * [Eloquent JavaScript](http://eloquentjavascript.net/) :books: - Free

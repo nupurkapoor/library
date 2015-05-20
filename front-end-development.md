@@ -32,7 +32,9 @@
 * [Javascript Minefield](http://www.walkercoderanger.com/blog/2014/02/javascript-minefield/)
 * [JS Dares](http://jsdares.com/) :computer: - Free 
 * [Guide to Angular](https://github.com/Thinkful/guide-intro-to-angular) :books:  - Free
-
+* [Free Quality Javascript video tutorials and screencasts](http://screencasts.org/topics/javascript) :computer: - Free
+* [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) :computer: - Free
+* [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript) :computer: - Free
 
 
 ##### Javascript Libraries

@@ -16,7 +16,7 @@
 * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :books: :moneybag: - $13.49 (ebook) or $21.35 print on Amazon
 * [DOM Enlightenment](http://domenlightenment.com/) :books: - Free
 * [Front End Development Guidelines](http://taitems.github.io/Front-End-Development-Guidelines/) :page_facing_up: 
-* [Javascript Jabber podcast](http://devchat.tv/js-jabber/) - :headphones: Free
+* [Javascript Jabber podcast](http://devchat.tv/js-jabber/) - :headphones: - Free
 * [JShttp Style Guide](https://github.com/jshttp/style-guide) :books: 
 * [Speaking JavaScript](http://speakingjs.com/) :books: - Free
 * [Eloquent JavaScript](http://eloquentjavascript.net/) :books: - Free
@@ -32,6 +32,10 @@
 * [Javascript Minefield](http://www.walkercoderanger.com/blog/2014/02/javascript-minefield/)
 * [JS Dares](http://jsdares.com/) :computer: - Free 
 * [Guide to Angular](https://github.com/Thinkful/guide-intro-to-angular) :books:  - Free
+* [Free Quality Javascript video tutorials and screencasts](http://screencasts.org/topics/javascript) :computer: - Free
+* [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) :computer: - Free
+* [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript) :computer: - Free
+
 
 ##### Javascript Libraries
 * [Elevator.js](http://tholman.com/elevator.js/) - Elevator.js fixes those awkward "scroll to top" moments the old fashioned way.

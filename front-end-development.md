@@ -35,6 +35,7 @@
 * [Free Quality Javascript video tutorials and screencasts](http://screencasts.org/topics/javascript) :computer: - Free
 * [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) :computer: - Free
 * [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript) :computer: - Free
+* [The Javascript Show](http://javascriptshow.com/) :headphones: - Free
 
 
 ##### Javascript Libraries

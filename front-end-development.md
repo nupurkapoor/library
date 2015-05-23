@@ -41,6 +41,11 @@
 ##### Javascript Libraries
 * [Elevator.js](http://tholman.com/elevator.js/) - Elevator.js fixes those awkward "scroll to top" moments the old fashioned way.
 
+##### CoffeeScript
+* [Coffeescript Style Guide](https://github.com/polarmobile/coffeescript-style-guide/blob/master/README.md)
+* [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
+
+
 #### General Web
 * [How the web works - Mozilla](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/How_the_Web_works) :books: 
 * [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) :books:

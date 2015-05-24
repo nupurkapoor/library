@@ -45,6 +45,10 @@
 * [Coffeescript Style Guide](https://github.com/polarmobile/coffeescript-style-guide/blob/master/README.md)
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
+##### Node
+* [Node School](http://nodeschool.io/)
+
+
 
 #### General Web
 * [How the web works - Mozilla](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/How_the_Web_works) :books: 

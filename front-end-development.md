@@ -38,7 +38,6 @@
 * [Node.js Screencast Series - Tutsowl](http://www.tutsowl.com/) :headphones: - Free
 * [The Javascript Show](http://javascriptshow.com/) :headphones: - Free
 
-
 ##### Javascript Libraries
 * [Elevator.js](http://tholman.com/elevator.js/) - Elevator.js fixes those awkward "scroll to top" moments the old fashioned way.
 
@@ -48,8 +47,6 @@
 
 ##### Node
 * [Node School](http://nodeschool.io/)
-
-
 
 #### General Web
 * [How the web works - Mozilla](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/How_the_Web_works) :books: 

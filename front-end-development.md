@@ -37,6 +37,8 @@
 * [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript) :computer: - Free
 * [Node.js Screencast Series - Tutsowl](http://www.tutsowl.com/) :headphones: - Free
 * [The Javascript Show](http://javascriptshow.com/) :headphones: - Free
+* [Adventures in Angular - DevChat.tv](http://devchat.tv/adventures-in-angular/) :headphones: - Free
+
 
 ##### Javascript Libraries
 * [Elevator.js](http://tholman.com/elevator.js/) - Elevator.js fixes those awkward "scroll to top" moments the old fashioned way.

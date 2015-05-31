@@ -23,3 +23,10 @@
 * [Examples of small Python Scripts](http://www.hlevkin.com/Shell_progr/hellopython.htm) :page_facing_up:
 * [10 small Python Programs](http://jessenoller.com/blog/2007/05/29/ten-small-python-programs) :page_facing_up:
 * [List of other resources](http://docs.python-guide.org/en/latest/intro/learning/) :page_facing_up:
+* [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969) 
+* [ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
+* [TheNewBoston - Pygame (Python Game Development) Playlist](http://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq)
+* [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+* [TheNewBoston - Python GUI with Tkinter Playlist](http://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)
+* [TheNewBoston - Python Programming Tutorials - 2.x](http://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA)
+* [Try Django Tutorial](http://youtu.be/3DccH9AMwFQ?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx)

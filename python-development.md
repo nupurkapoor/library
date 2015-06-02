@@ -30,3 +30,5 @@
 * [TheNewBoston - Python GUI with Tkinter Playlist](http://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d) :computer: - Free
 * [TheNewBoston - Python Programming Tutorials - 2.x](http://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA) :computer: - Free
 * [Try Django Tutorial](http://youtu.be/3DccH9AMwFQ?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx) :computer: - Free
+* [Podcast.__init__](http://podcastinit.com/)
+* [Talk Python To Me - A podcast on Python and related technologies](http://www.talkpythontome.com/)

@@ -28,22 +28,25 @@ Second, your performance is evaluated in comparison to other candidates. For exa
 In evaluating thousands of hiring packets at Google, I have only once seen a candidate have a "flawless"set of interviews. Everyone else, including the hundreds who got offers, made mistakes.
 
 #### Top 10 mistakes
-+ Practicing on a Computer
-+ Not Rehearsing Behavioral Questions
-+ Not Doing a Mock Interview
-+ Trying to Memorize Solutions
-+ Not Solving ProblemsOut Loud
-+ Rushing
-+ SloppyCoding
-+ Not Testing
-+ Fixing Mistakes Carelessly
-+ Giving Up
+* Practicing on a Computer
+* Not Rehearsing Behavioral Questions
+* Not Doing a Mock Interview
+* Trying to Memorize Solutions
+* Not Solving ProblemsOut Loud
+* Rushing
+* SloppyCoding
+* Not Testing
+* Fixing Mistakes Carelessly
+* Giving Up
 
 #### How to practice Technical Questions
-+ **Try to solve the problem on your own**. Really try to solve it. Many questions are designed to be tough, that's ok! When you're solving a problem, make sure to think about the space and time efficiency. Ask yourself if you could improve the time efficiency by reducing the space efficiency, or vice versa.
-+ **Write the code for the algorithm on paper**. You've been coding all your life on a computer, and you've gotten used to the many nice things about it. But, in your interview, you won't have the luxury of syntax highlighting, code completion, or compiling. Mimic this situation by coding on paper.
-+ **Test your code—on paper**. This means testing the general cases, base cases, error cases, and so on. You'll need to do this during your interview, so it's best to practice this in advance.
-+ **Type your paper code as-is into a computer**. You will probably make a bunch of mistakes. Start a list of all the errors you make so that you can keep these in mind in the real interview.
+**Try to solve the problem on your own**. Really try to solve it. Many questions are designed to be tough, that's ok! When you're solving a problem, make sure to think about the space and time efficiency. Ask yourself if you could improve the time efficiency by reducing the space efficiency, or vice versa.
+
+**Write the code for the algorithm on paper**. You've been coding all your life on a computer, and you've gotten used to the many nice things about it. But, in your interview, you won't have the luxury of syntax highlighting, code completion, or compiling. Mimic this situation by coding on paper.
+
+**Test your code—on paper**. This means testing the general cases, base cases, error cases, and so on. You'll need to do this during your interview, so it's best to practice this in advance.
+
+**Type your paper code as-is into a computer**. You will probably make a bunch of mistakes. Start a list of all the errors you make so that you can keep these in mind in the real interview.
 
 In addition, mock interviews are extremely useful. CareerCup.com offers mock interviews with actual Microsoft, Google and Amazon employees, but you can also practice with friends. You and your friend can trade giving each other mock interviews. Though your friend may not be an expert interviewer, he or she may still be able to walk you through a coding or algorithm problem.
 

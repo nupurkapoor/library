@@ -4,7 +4,7 @@
 
 Links, resources, training materials, blogs, github repos, articles, and everything that I don't want to get lost under my bookmarks folder! I'll probably arrange this as per language or concern, in respective sub folders, add a toc (hopefully one day!). This is a curated list of all the awesome not-to-be missed resources I've found online. 
 
-### Introduction to CS ([source](https://github.com/prakhar1989/awesome-courses/blob/master/README.md))
+### Introduction to CS Programs ([source](https://github.com/prakhar1989/awesome-courses/blob/master/README.md))
 
 - [CS 10](https://inst.eecs.berkeley.edu/~cs10/fa14/) **The Beauty and Joy of Computing** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- CS10 is UCB's introductory computer science class, taught using the beginners' drag-and-drop language. Students learn about history, social implications, great principles, and future of computing. They also learn the joy of programming a computer using a friendly, graphical language, and will complete a substantial team programming project related to their interests.
@@ -79,7 +79,7 @@ Links, resources, training materials, blogs, github repos, articles, and everyth
 - [SQL Alchemy - Object Relational tutorials](http://docs.sqlalchemy.org/en/rel_0_9/orm/tutorial.html) <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 
 	
-### Algos ([source](https://github.com/prakhar1989/awesome-courses/blob/master/README.md))
+### Algorithms ([source](https://github.com/prakhar1989/awesome-courses/blob/master/README.md))
 
 - [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> 
 

@@ -38,6 +38,18 @@
 * [D3.js](http://d3js.org/) - D3.js is a JavaScript library for manipulating documents based on data. :books:  - Free
 
 
+##### Package Managers
+
+* [npm](https://www.npmjs.com/) - npm is the package manager for javascript.
+* [Bower](https://github.com/bower/bower) - A package manager for the web.
+* [component](https://github.com/component/component) - Client package management for building better web applications.
+* [spm](https://github.com/spmjs/spm) - Brand new static package manager.
+* [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
+* [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
+* [Ender](https://github.com/ender-js/Ender) - The no-library library.
+* [volo](https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects.
+* [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
+
 ##### CoffeeScript
 * [Coffeescript Style Guide](https://github.com/polarmobile/coffeescript-style-guide/blob/master/README.md) :page_facing_up:
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html) :books:

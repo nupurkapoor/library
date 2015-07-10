@@ -36,6 +36,7 @@
 ##### Javascript Libraries
 * [Elevator.js](http://tholman.com/elevator.js/) - Elevator.js fixes those awkward "scroll to top" moments the old fashioned way. :books:  - Free
 * [D3.js](http://d3js.org/) - D3.js is a JavaScript library for manipulating documents based on data. :books:  - Free
+* [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript.  :books:  - Fre
 
 
 ##### Package Managers

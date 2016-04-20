@@ -31,6 +31,7 @@
 * [Node.js Screencast Series - Tutsowl](http://www.tutsowl.com/) :headphones: - Free
 * [The Javascript Show](http://javascriptshow.com/) :headphones: - Free
 * [Adventures in Angular - DevChat.tv](http://devchat.tv/adventures-in-angular/) :headphones: - Free
+* [Every javascript project you should be looking into](http://www.javascriptoo.com/) :page_facing_up:  - Free
 
 
 ##### Javascript Libraries
